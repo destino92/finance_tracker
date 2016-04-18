@@ -1,0 +1,7 @@
+# Finance-tracker app
+
+The live version of this app will be available soon.
+
+---
+
+I am building this is app in order to add another project to my resume and demonstrate my knowledge of ruby on rails.
